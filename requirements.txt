@@ -1,0 +1,4 @@
+Flask
+gunicorn
+rainbond-python
+azure-cognitiveservices-speech
